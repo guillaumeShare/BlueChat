@@ -1,3 +1,3 @@
 # BlueChat
 Projet BlueChat ING5
-allo !!!
+Date de rendu: mi-décembre !
